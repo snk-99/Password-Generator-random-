@@ -11,11 +11,11 @@ The password can include special characters. If you’re unfamiliar with these, 
 
 ## User Story
 
-```
+
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
-```
+
 
 ## Acceptance Criteria
 
@@ -27,3 +27,7 @@ THEN a password is generated
 
 ## Mock-Up
 
+<img width="1436" alt="password screenshot" src="https://user-images.githubusercontent.com/81891066/117385405-0919d900-aeb3-11eb-8a4c-60af3e5f701c.png">
+
+## Link to Website
+https://snk-99.github.io/Password-Generator-random-/
